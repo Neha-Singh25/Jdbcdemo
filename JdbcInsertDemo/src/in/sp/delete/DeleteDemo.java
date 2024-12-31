@@ -21,7 +21,7 @@ public class DeleteDemo {
 			System.out.println("deletion success");
 		}
 		else {
-			System.out.println("deletion failed");
+			System.out.println("deletion failed....");
 		}
 		
 	}
